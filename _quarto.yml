@@ -12,6 +12,7 @@ book:
   repo-url: https://github.com/ottrproject/OTTR_Quarto
   repo-actions: [edit] 
   issue-url: https://docs.google.com/forms/d/e/1FAIpQLSfBvVELBg8lcynKj0TrzMlov1zil-Sbkh9VhMKRcSpeo1xo6g/viewform
+  google-analytics: "G-XXXXXXXXXX"
   
   chapters:
     - index.qmd
