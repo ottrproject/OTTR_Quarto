@@ -19,8 +19,8 @@ book:
     - part: "First Section"
       chapters:
         - first-section-new-chapter.qmd
-    - About.qmd
     - conclusion.qmd
+    - About.qmd
     - references.qmd
   
   sidebar: 
