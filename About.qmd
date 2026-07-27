@@ -49,7 +49,7 @@ sessionInfo()
 [Howard Baek]: https://www.linkedin.com/in/howard-baik/
 [Kate Isaac]: https://kweav.github.io/
 [Katherine Cox]: https://katherinecox.github.io/
-
+[Adam Coffman]:https://www.linkedin.com/in/adamcoffman
 <!-- Links -->
 [ottrpal]: https://github.com/ottrproject/ottrpal
 
