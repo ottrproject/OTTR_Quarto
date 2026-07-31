@@ -2,6 +2,7 @@ chapt
 bookdown
 cheatsheet
 cheatsheet
+Coffman
 Computable
 coursera
 dir
