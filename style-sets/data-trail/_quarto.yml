@@ -1,0 +1,38 @@
+project:
+  type: book
+
+book:
+  title: "Course Name"
+  favicon: assets/DataTrail_favicon.ico
+  bread-crumbs: false
+  chapters:
+    - index.qmd
+  sidebar:
+    logo: assets/DataTrail_logo.jpg
+    logo-href: https://www.datatrail.org/
+  page-footer:
+    left: |
+      This content was published with <a href="https://quarto.org/" target="_blank">Quarto</a> using
+      <a href="https://github.com/ottrproject/OTTR_Quarto" target="_blank">OTTR</a>.
+    center: |
+      The OTTR Template by <a href="https://github.com/ottrproject/OTTR_Template" target="_blank">The Johns Hopkins Data Science Lab</a>.
+    right: |
+      <a href="https://forms.gle/VWaJYc3zATe3qxYC9" target="_blank">Click here to provide feedback</a>
+
+bibliography:
+  - book.bib
+  - packages.bib
+link-citations: true
+
+format:
+  html:
+    css: assets/style_DataTrail.css
+    include-before-body: assets/big-image-DataTrail.html
+    include-after-body: assets/footer.html
+    highlight-style: tango
+    toc: true
+    sidebar: true
+    code-copy: true
+    code-link: true
+    link-external-newwindow: true
+    theme: cosmo
