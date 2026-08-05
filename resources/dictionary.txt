@@ -2,6 +2,7 @@ chapt
 bookdown
 cheatsheet
 cheatsheet
+Coffman
 Computable
 coursera
 dir
@@ -239,3 +240,13 @@ yihui
 yihui
 YmwKdIy
 youtube
+Audiographer
+Audiography
+Baek
+FirstName
+Funder
+LastName
+Muschelli
+Savonen
+Videographer
+Videography
