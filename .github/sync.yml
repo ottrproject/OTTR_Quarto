@@ -26,6 +26,7 @@ group:
   # Repositories to receive changes
     repos: |
       jhudsl/Containers_for_Scientists
+      fhdsl/Clinical_Data_Management
 
 ###ADD NEW REPO HERE following the format above#
 
