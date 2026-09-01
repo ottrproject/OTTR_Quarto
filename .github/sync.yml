@@ -27,6 +27,7 @@ group:
     repos: |
       jhudsl/Containers_for_Scientists
       fhdsl/Clinical_Data_Management
+      fhdsl/DataViz_Considerations
 
 ###ADD NEW REPO HERE following the format above#
 
