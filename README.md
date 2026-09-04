@@ -4,7 +4,7 @@ Go to [ottrproject.org](https://www.ottrproject.org/) for documentation to get s
 
 The purpose of this course template and the ottrproject tools are to make course publishing maintenance across multiple different platforms _less painful_.
 
-_This template and guide helps you_:
+_This template helps you_:
 
 - Edit and write a course in [Quarto](https://quarto.org/) files and have it published to multiple different platforms:
   - [Leanpub](https://leanpub.com/bookstore?type=course)
