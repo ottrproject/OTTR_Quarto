@@ -1,6 +1,6 @@
 ## OTTR for Courses!
 
-Go to [ottrproject.org](https://www.ottrproject.org/) to get started! :tada:
+Go to [ottrproject.org](https://www.ottrproject.org/) for documentation to get started! :tada:
 
 The purpose of this course template and guide is to make course publishing maintenance across multiple different platforms _less painful_.
 
