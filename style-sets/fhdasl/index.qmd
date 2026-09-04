@@ -1,0 +1,15 @@
+---
+title: "FHDaSL Book Name"
+date: today
+description: "Description about Course/Book."
+---
+
+```{r}
+#| include: false
+# Automatically create a bib database for R packages.
+knitr::write_bib(c(
+  .packages(), "knitr", "rmarkdown"
+), "packages.bib")
+```
+
+# About this Book {.unnumbered}

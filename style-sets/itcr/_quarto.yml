@@ -1,0 +1,38 @@
+project:
+  type: book
+
+book:
+  title: "Informatics Technology for Cancer Research (ITCR): Course Name"
+  favicon: assets/ITN_favicon.ico
+  bread-crumbs: false
+  chapters:
+    - index.qmd
+  sidebar:
+    logo: assets/ITN_logo.png
+    logo-href: https://www.itcrtraining.org/
+  page-footer:
+    left: |
+      This content was published with <a href="https://quarto.org/" target="_blank">Quarto</a> using
+      <a href="https://github.com/ottrproject/OTTR_Quarto" target="_blank">OTTR</a>.
+    center: |
+      The OTTR Template by <a href="https://github.com/ottrproject/OTTR_Template" target="_blank">The Johns Hopkins Data Science Lab</a>.
+    right: |
+      <a href="https://forms.gle/hc8Xt3Y2Znjb6M4Y7" target="_blank">Click here to provide feedback</a>
+
+bibliography:
+  - book.bib
+  - packages.bib
+link-citations: true
+
+format:
+  html:
+    css: assets/style_ITN.css
+    include-before-body: assets/big-image-itcr.html
+    include-after-body: assets/footer.html
+    highlight-style: tango
+    toc: true
+    sidebar: true
+    code-copy: true
+    code-link: true
+    link-external-newwindow: true
+    theme: cosmo
