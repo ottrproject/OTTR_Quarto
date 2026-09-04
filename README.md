@@ -20,7 +20,7 @@ _This template helps you_:
 
 ## Courses that have been made using this template
 
-- [Documentation and Usability](https://jhudatascience.org/Documentation_and_Usability/)
+- [Clinical Data Management](https://hutchdatascience.org/Clinical_Data_Management/)
 - [Leadership for Cancer Informatics Research](https://jhudatascience.org/Informatics_Research_Leadership/)
 - [Reproducibility in Cancer Informatics](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/)
 - [Advanced Reproducibility in Cancer Informatics](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/)
