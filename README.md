@@ -2,7 +2,7 @@
 
 Go to [ottrproject.org](https://www.ottrproject.org/) for documentation to get started! :tada:
 
-The purpose of this course template and guide is to make course publishing maintenance across multiple different platforms _less painful_.
+The purpose of this course template and the ottrproject tools are to make course publishing maintenance across multiple different platforms _less painful_.
 
 _This template and guide helps you_:
 
