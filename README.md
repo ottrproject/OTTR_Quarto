@@ -23,7 +23,6 @@ _This template helps you_:
 - [Clinical Data Management](https://hutchdatascience.org/Clinical_Data_Management/)
 - [Considerations for Data Visualization](https://hutchdatascience.org/DataViz_Considerations/)
 - [Containers for Scientists](https://hutchdatascience.org/Containers_for_Scientists/)
-- [Advanced Reproducibility in Cancer Informatics](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/)
 
 ## To Get Started
 
