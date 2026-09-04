@@ -21,7 +21,7 @@ _This template helps you_:
 ## Courses that have been made using this template
 
 - [Clinical Data Management](https://hutchdatascience.org/Clinical_Data_Management/)
-- [Leadership for Cancer Informatics Research](https://jhudatascience.org/Informatics_Research_Leadership/)
+- [Considerations for Data Visualization](https://hutchdatascience.org/DataViz_Considerations/)
 - [Reproducibility in Cancer Informatics](https://jhudatascience.org/Reproducibility_in_Cancer_Informatics/)
 - [Advanced Reproducibility in Cancer Informatics](https://jhudatascience.org/Adv_Reproducibility_in_Cancer_Informatics/)
 
