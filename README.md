@@ -14,7 +14,7 @@ _This template helps you_:
 - Use [automagic conversion](https://github.com/ottrproject/ottrpal) to ease the lift of prepping material for different platform formats.
 - Use [our Docker image](https://hub.docker.com/repository/docker/jhudsl/base_ottr) for consistency across authors and to help you [avoid dependency hell](https://en.wikipedia.org/wiki/Dependency_hell).
 
-[See the OTTR pre-print here!](https://arxiv.org/abs/2203.07083)
+[See the OTTR manuscript here!](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2118646)
 
 <img src="https://docs.google.com/presentation/d/18k_QN7l6zqZQXoiRfKWzcYFXNXJJEo6j4daYGoc3UcU/export/png?id=18k_QN7l6zqZQXoiRfKWzcYFXNXJJEo6j4daYGoc3UcU&pageid=gf4fcf6569c_2_29" width="500"/>
 
