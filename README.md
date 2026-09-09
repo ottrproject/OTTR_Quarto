@@ -32,6 +32,9 @@ _This template helps you_:
 - Please take a look at the [code of conduct](./code_of_conduct.md).
 - If you encounter any problems or have ideas for improvements to this template repository or this getting started guide, please [file an issue here](https://github.com/ottrproject/OTTR_Quarto/issues/new/choose)! Your feedback is very much appreciated.
 
+## Cheatsheet
+Refer to our [cheatsheet](https://www.ottrproject.org/cheatsheets/ottr_quarto_course.html) for a quick reference on building an your course with OTTR! 
+
 ## Contributing
 
 If you'd like to contribute, we love that! Please go to the [CONTRIBUTING.md doc](https://github.com/ottrproject/.github/blob/main/CONTRIBUTING.md).
