@@ -33,7 +33,7 @@ _This template helps you_:
 - If you encounter any problems or have ideas for improvements to this template repository or this getting started guide, please [file an issue here](https://github.com/ottrproject/OTTR_Quarto/issues/new/choose)! Your feedback is very much appreciated.
 
 ## Cheatsheet
-Refer to our [cheatsheet](https://www.ottrproject.org/cheatsheets/ottr_quarto_course.html) for a quick reference on building an your course with OTTR! 
+Refer to our [cheatsheet](https://www.ottrproject.org/cheatsheets/ottr_quarto_course.html) for a quick reference on building your course with OTTR! 
 
 ## Contributing
 
